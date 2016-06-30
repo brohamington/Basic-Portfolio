@@ -1,0 +1,60 @@
+body{
+	padding: 0;
+	background-image: url('../images/wov.png');
+	width: auto;
+	overflow: auto;
+}
+.clearfix {
+	overflow: auto;
+}
+
+#top{
+	width:auto;
+	border-bottom: 2px solid #cccccc;
+	background-color: #ffffff;
+	margin:  auto;
+	height: 80px;
+}
+
+#headercontainer{
+	background-color: #ffffff;
+	height: 80px;
+	margin: 0 auto;
+	width: 960px;
+
+}
+
+#header{
+
+	width: 100%;
+	position: relative;
+	top: 0;
+	left: 0;
+	border-bottom: 1px solid #cccccc;
+	background-color: #ffffff;
+	height: 80px;
+
+	
+}
+.name{float: left;
+	width:; 
+	height:;
+	padding:;
+	color:#ffffff;
+	background-color:#4aaaa5;
+	text-align: center;
+	font-family: 'Georgia', 'Times, Times New Roman', serif;
+}
+.buttons{float: right;
+
+}
+
+#container{
+	position: relative;
+	margin: auto;
+	width: 960PX;
+
+}
+
+
+
